@@ -19,13 +19,24 @@
         <div class="main-content">
             <nav class="main-content-modules">
                 <div class="main-content-module green">
-                    <h3>Módulo 01</h3>
+                    <h3>Básico</h3>
                     <ul>
                         <li><a href="exercising.php?dir=basico&file=ola">Olá PHP</a></li>
                         <li><a href="exercising.php?dir=basico&file=html">Integração Html</a></li>
                         <li><a href="exercising.php?dir=basico&file=css">Integração CSS</a></li>
                         <li><a href="exercising.php?dir=basico&file=comentarios">Comentários PHP</a></li>
+                        <li><a href="exercising.php?dir=basico&file=desafio">Desafio PHP</a></li>
                     </ul>
+                </div>
+                <div class="main-content-module red">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li><a href="exercising.php?dir=tipos&file=int">Tipo Inteiro</a></li>
+                </div>
+                <div class="main-content-module blue">
+                    <h3>Módulo 03</h3>
+                    <ul>
+                        <li><a href="exercising.php?dir=#&file=#">Olá PHP</a></li>
                 </div>
 
 
